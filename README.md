@@ -1,4 +1,4 @@
-# SolarXR-Protocol test
+# SolarXR-Protocol
 A hardware-agnostic serialization protocol for full body tracking (FBT) in VR. Used by SlimeVR,
 but intends to be flexible enough to support *any* type of FBT hardware, including Vive trackers.
 
